@@ -305,7 +305,7 @@ function mainloop()
 end
 
 if USEMODEM then
-	rednet.open("right")
+	rednet.open("left")
 end
 
 out("\n\n\n-- WELCOME TO THE MINING TURTLE --\n\n")
@@ -323,5 +323,5 @@ while true do
 end
 
 if USEMODEM then
-	rednet.close("right")
+	rednet.close("left")
 end
