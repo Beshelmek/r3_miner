@@ -10,7 +10,7 @@
 2. place a chest to the left of the turtle starting point.
 3. right-click the turtle, add fuel (coal, charcoal, or lignite coal [[https://github.com/AztechMC/Modern-Industrialization][(modern industrialization)]]
 4. install a [[https://github.com/eric-wieser/computercraft-github][github client]]: ~pastebin run p8PJVxC4~
-5. download miner: ~github clone Beshelmek/r3_miner -b now .~
+5. download miner: ~github clone Beshelmek/r3_miner -b main .~
 6. start miner: ~r3~
 [[https://raw.githubusercontent.com/milkknife/r3_miner/pics/quarry.jpg]]
 note: you can ~edit inv~ before running ~r3~ to add/remove lines to the drop list. these items won't be collected and stored in the chest.
